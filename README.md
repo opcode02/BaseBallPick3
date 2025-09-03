@@ -190,9 +190,3 @@ When breaking this into smaller files, consider these main functional areas:
 - Use React.memo for expensive components
 - Implement proper loading states
 - Handle large datasets efficiently
-
-## Future Enhancements
-- Multi-player support
-- Different teams/leagues support
-- Push notifications for game starts
-- Social sharing improvements
