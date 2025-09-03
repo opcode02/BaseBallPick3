@@ -161,12 +161,7 @@ When breaking this into smaller files, consider these main functional areas:
 - Scoring calculations and boost application
 - Game timing and phase transitions
 
-### 4. UI Components (`src/components/`)
-- `AnimatedScore`, `AnimatedPlayerRow`
-- `Headshot` component
-- Phase-specific screens (Setup, Draft, Play, Live, Results)
-
-### 5. Utilities (already created in `src/utils/`)
+### 4. Utilities (already created in `src/utils/`)
 - Date/time functions
 - Scoring calculations
 - General helper functions
